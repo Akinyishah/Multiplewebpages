@@ -59,8 +59,28 @@
     color: white;
     font-size: 18px;
 }
+.container1{
+    margin-top: 100px;
+    margin-left: 67%;
+    
+}
+.container1 a{
+    color: aqua;
+    text-align: center;
+}
+.container1 a span{
+    color: aqua;
+    font-size: medium;
+    font-style: normal;
+    font-weight: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container1 p span{
+    color: #ff0000;
+}
 .container2 .forms{
-    margin-top: 60px;
+    margin-top: 55px;
     margin-left: 500px;
     width: 100%;
     height: 180%;
